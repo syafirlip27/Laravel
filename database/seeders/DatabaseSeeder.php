@@ -12,6 +12,13 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
+        // NamaModel::create([
+
+        //     'column1' => 'value1',
+        
+        //     'password' => Hash::make('password_kamu'),
+        
+        // ]);
         // \App\Models\User::factory(10)->create();
 
         // \App\Models\User::factory()->create([
